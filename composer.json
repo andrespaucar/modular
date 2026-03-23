@@ -21,7 +21,7 @@
         "ext-dom": "*",
         "composer/composer": "^2.1",
         "illuminate/support": "^11|^12|^13",
-        "internachi/modularize": "dev-main"
+        "internachi/modularize": "^1.1|dev-main"
     },
     "require-dev": {
         "orchestra/testbench": "^9.11|^10.0|dev-master|dev-main",
